@@ -1,16 +1,31 @@
-## Hi there 👋
+# 👋 Hi, I'm Ayza Aslam
 
-<!--
-**Aiza-Aslam/Aiza-Aslam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 A Computer Science (BSCS) student  
+🌐 Aspiring Front-End Web Developer  
+💡 Passionate about clean design and user-friendly websites
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 My Projects
+
+- 🎨 [Perfume Product Preview Card](https://aiza-aslam.github.io/perfume-preview-card/)  
+  A responsive product card built with HTML & CSS — my first step into web development.
+
+---
+
+## 🌱 Currently Learning
+
+- HTML5 & CSS3 
+- Responsive Web Design
+- Git & GitHub
+- JavaScript 
+
+---
+
+## 📫 Let's Connect
+
+- 🔗 [GitHub Profile](https://github.com/Aiza-Aslam)
+
+---
+
+Thanks for visiting my profile! 🚀
