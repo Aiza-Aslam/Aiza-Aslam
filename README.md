@@ -8,7 +8,7 @@
 
 ## 💻 My Projects
 
-- 🎨 [Perfume Product Preview Card](https://aiza-aslam.github.io/perfume-preview-card/)  
+- 🎨 [Perfume Product Preview Card](https://ayza-aslam.github.io/perfume-preview-card/)  
   A responsive product card built with HTML & CSS — my first step into web development.
 
 ---
@@ -24,7 +24,7 @@
 
 ## 📫 Let's Connect
 
-- 🔗 [GitHub Profile](https://github.com/Aiza-Aslam)
+- 🔗 [GitHub Profile](https://github.com/Ayza-Aslam)
 
 ---
 
